@@ -36,16 +36,16 @@ const TitleMessage = () => (
     <div className="titleMessage">
       <div className="heading">
         <div className="main text-center mb-3">
-          Hi, I am
-          <br />
+          {/* Hi, I am */}
+          {/* <br /> */}
           <span>
-            <strong>Anthony Loredo</strong>
+            <strong>LoveCede</strong>
           </span>
         </div>
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Full Stack Web Developer", "Learner", "Software Engineer"],
+              strings: ["Surrender to Compassion", "Self Love", "Honor In Emotion"],
               autoStart: true,
               loop: true,
               delay: 50
